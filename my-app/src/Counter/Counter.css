@@ -1,0 +1,20 @@
+.counter-container{
+    border-style: solid;
+    border-radius: 5px;
+    border-color: rgb(66, 60, 61);
+    background-color: rgb(101, 138, 138);
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    
+    width: 300px;
+    height: 400px;
+    margin: auto;
+}   
+
+.items-container{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+}
